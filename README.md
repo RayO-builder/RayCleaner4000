@@ -60,27 +60,51 @@ O **Raycleaner4000** nasceu com o objetivo de oferecer uma interface limpa, ráp
 
 
 
-## Como Executar (Desenvolvimento)
+## Como Instalar e Executar
 
 
 
-Certifique-se de ter o **Python 3.8+** instalado em sua máquina.
+Você pode usar o aplicativo de duas formas: através do arquivo executável pronto ou pelo código-fonte.
 
 
 
-1. Clone este repositório:
+### Opção 1: Executável Pronto (Recomendado)
+
+
+
+1. Clique na pasta **executável** no repositório.
+
+2. Faça o download do arquivo `.exe` presente dentro da pasta.
+
+3. Clique com o botão direito sobre o arquivo baixado e selecione **Executar como Administrador** (necessário para limpar pastas do sistema como Temp e Prefetch).
+
+
+
+---
+
+
+
+### Opção 2: Executar via Código-Fonte (Desenvolvimento)
+
+
+
+Caso prefira rodar o projeto diretamente pelo Python:
+
+
+
+1. Certifique-se de ter o **Python 3.8+** instalado em sua máquina.
+
+2. Clone este repositório:
 
    ```bash
 
-   git clone https://github.com/seu-usuario/raycleaner4000.git
+   git clone https://github.com/RayO-builder/RayCleaner4000.git
 
-   cd raycleaner4000
+   cd RayCleaner4000
 
    ```
 
-
-
-2. Instale as dependências necessárias:
+3. Instale as dependências necessárias:
 
    ```bash
 
@@ -88,13 +112,11 @@ Certifique-se de ter o **Python 3.8+** instalado em sua máquina.
 
    ```
 
-
-
-3. Execute a aplicação:
+4. Execute a aplicação (como Administrador no terminal):
 
    ```bash
 
-   python main.py
+   python cleaner.py
 
    ```
 
