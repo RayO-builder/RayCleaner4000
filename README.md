@@ -1,4 +1,4 @@
-# ⚡ Raycleaner4000
+# Raycleaner4000
 
 
 
@@ -26,7 +26,7 @@
 
 
 
-## 🎨 Sobre o Projeto
+## Sobre o Projeto
 
 
 
@@ -38,21 +38,21 @@ O **Raycleaner4000** nasceu com o objetivo de oferecer uma interface limpa, ráp
 
 
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 
 
-* 🧹 **Limpeza de Pastas Temporárias do Sistema** (`C:\Windows\Temp`)
+* **Limpeza de Pastas Temporárias do Sistema** (`C:\Windows\Temp`)
 
-* 👤 **Temporários do Usuário** (`%TEMP%`)
+* **Temporários do Usuário** (`%TEMP%`)
 
-* 🚀 **Arquivos de Prefetch** (`C:\Windows\Prefetch`)
+* **Arquivos de Prefetch** (`C:\Windows\Prefetch`)
 
-* 📂 **Histórico de Arquivos Recentes** do Windows
+* **Histórico de Arquivos Recentes** do Windows
 
-* 🗑️ **Esvaziamento Automático da Lixeira** via PowerShell
+* **Esvaziamento Automático da Lixeira** via PowerShell
 
-* 🔒 **Verificação de Administrador** integrada para garantir permissões de acesso adequadas.
+* **Verificação de Administrador** integrada para garantir permissões de acesso adequadas.
 
 
 
@@ -60,7 +60,7 @@ O **Raycleaner4000** nasceu com o objetivo de oferecer uma interface limpa, ráp
 
 
 
-## 🚀 Como Executar (Desenvolvimento)
+## Como Executar (Desenvolvimento)
 
 
 
@@ -104,7 +104,7 @@ Certifique-se de ter o **Python 3.8+** instalado em sua máquina.
 
 
 
-## 🛡️ Requisitos de Execução
+## Requisitos de Execução
 
 
 
@@ -118,9 +118,8 @@ Certifique-se de ter o **Python 3.8+** instalado em sua máquina.
 
 
 
-## 🤝 Contribuindo
+## Contribuindo
 
 
 
 Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma *issue* ou enviar um *pull request* com melhorias, correções de bugs ou novas ideias.
-
